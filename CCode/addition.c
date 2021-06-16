@@ -9,7 +9,8 @@ int sum(int x,int y)
 int sum3(int x,int y, int z)
 {
 	sum(1,2);
-	
+	sum(3,4);	
 	return x+y+z;
 }
+
 
