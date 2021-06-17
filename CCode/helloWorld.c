@@ -12,7 +12,13 @@ int main(){
 
 }
 
-void greeting(char name[])
+void greeting()
+{
+	printf("Good mornign");
+	
+}
+
+void helloWorld()
 {
 	
 	printf("Hey where was you.. %s",name);
