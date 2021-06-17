@@ -9,6 +9,12 @@ int main(){
 	helloWorld();
 }
 
+void greeting()
+{
+	printf("Good mornign");
+	
+}
+
 void helloWorld()
 {
 	
